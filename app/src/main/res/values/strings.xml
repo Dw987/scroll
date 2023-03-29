@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textview">TextView</string>
+    <string name="name">Dw</string>
+    <string name="yellow_star">yellow_star</string>
+    <string name="text">Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello ByeHello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello  Bye</string>
+    <string name="Text">Hellow World</string>
+    <string name="text2">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+       \n\n Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown
+        \n\n printer took a galley of type and scrambled it to make a type specimen book.
+        \n\n It has survived not only five centuries, but also the leap into electronic
+        \n\n typesetting, remaining essentially unchanged. It was popularised in the 1960s
+         \n\n with the release of Letraset sheets containing Lorem Ipsum passages, and
+         \n\n more recently with desktop publishing software like Aldus PageMaker
+         \n\n including versions of Lorem Ipsum.  Why do we use it? It is a long established
+         \n\n fact that a reader will be distracted by the readable content of a page
+         \n\n when looking at its layout. The point of using Lorem Ipsum is that
+         \n\n it has a more-or-less normal distribution of letters, as opposed to using
+         \n\n \'Content here, content here\', making it look like readable English.
+         \n\n Many desktop publishing packages and web page editors now use
+         \n\n Lorem Ipsum as their default model text, and a search for \'lorem ipsum\'
+        \n\n  will uncover many web sites still in their infancy. Various versions have
+        \n\n  evolved over the years, sometimes by accident, sometimes on purpose
+        \n\n  (injected humour and the like).   Where does it come from? Contrary to
+        \n\n  popular belief, Lorem Ipsum is not simply random text. It has roots in a
+         \n\n piece of classical Latin literature from 45 BC, making it over 2000 years old.
+        \n\n  Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,
+        \n\n  looked up one of the more obscure Latin words, consectetur, from a
+         \n\n Lorem Ipsum passage, and going through the cites of the word in classical
+         \n\n literature, discovered the undoubtable source. Lorem Ipsum comes from
+       \n\n   sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\"
+        \n\n  (The Extremes of Good and Evil) by Cicero, written in 45 BC.
+       \n\n   This book is a treatise on the theory of ethics, very popular during
+         \n\n the Renaissance. The first line of Lorem Ipsum,
+        \n\n  \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.</string>
+    <string name="what_is_your_nickname">Enter your nickname</string>
+    <string name="name2">Name</string>
+</resources>
